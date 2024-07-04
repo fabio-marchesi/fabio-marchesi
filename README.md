@@ -19,5 +19,4 @@
 [instagram]: https://www.instagram.com/fabiomarchesi99/
 [linkedin]: https://www.linkedin.com/in/fabio-marchesi-2b4610181/
 
-
 [email]: fabio.marchesi.99@gmail.com
